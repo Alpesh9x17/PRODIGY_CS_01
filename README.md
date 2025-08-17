@@ -1,4 +1,6 @@
-Caesar Cipher Encryption Tool:
-Simple Python tool to encrypt and decrypt text using the Caesar Cipher.
-Run: python caesar_cipher.py
-(No external libraries required)
+## 1. Caesar Cipher Encryption Tool
+
+Simple Python tool to encrypt and decrypt text using the classical Caesar Cipher.
+
+**Usage:**
+# python caesar_cipher.py
